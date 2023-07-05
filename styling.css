@@ -145,12 +145,11 @@ h1 a{
 
 
 .sidebar {
-    height: 100%;
-    width: 100%;
+    height: 500px;
+    width: 450px;
     border: 1px solid #BAF46F;
-    border-radius: 30px;
-    padding: 30px 30px;
-   
+    border-radius: 20px;
+    padding: 10px 30px;
 }
 .sidebar h3{
     color: #B314DB;
@@ -188,13 +187,7 @@ h1 a{
     transition: font-size 0.3 ease;
 }
 
-#leftsidebar {
-    float: left;
-}
 
-#rightsidebar {
-    float: right;
-}
 
 .footer {
     height: 60px;
